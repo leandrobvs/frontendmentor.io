@@ -1,0 +1,68 @@
+:root {
+  --color-purple100: hsl(254, 88%, 90%);
+  --color-purple500: hsl(256, 67%, 59%);
+  --color-yellow100: hsl(31, 66%, 93%);
+  --color-yellow500: hsl(39, 100%, 71%);
+  --color-white: hsl(0, 0%, 100%);
+  --color-black: hsl(0, 0%, 7%);
+}
+
+.closespacing {
+  letter-spacing: -2px;
+}
+
+.roundborder {
+  border-radius: 10px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.font-1-p-reg {
+  font-family: 'DM Sans';
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+
+.font-1-p-sbold {
+  font-family: 'DM Sans';
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.font-1-m-s-reg {
+  font-family: 'DM Sans';
+  font-size: 3.6rem;
+  font-weight: 400;
+}
+
+.font-1-m-s-sbold {
+  font-family: 'DM Sans';
+  font-size: 3.6rem;
+  font-weight: 500;
+}
+
+.font-1-m-reg {
+  font-family: 'DM Sans';
+  font-size: 4.4rem;
+  font-weight: 400;
+}
+
+.font-1-m-sbold {
+  font-family: 'DM Sans';
+  font-size: 4.4rem;
+  font-weight: 500;
+}
+
+.font-1-g-reg {
+  font-family: 'DM Sans';
+  font-size: 6.2rem;
+  font-weight: 400;
+}
+
+.font-1-g-sbold {
+  font-family: 'DM Sans';
+  font-size: 6.2rem;
+  font-weight: 500;
+}
